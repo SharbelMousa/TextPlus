@@ -1,2 +1,2 @@
-# TextPlus-
+# TextPlus+
 Simple Chat App
